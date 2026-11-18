@@ -1,0 +1,6 @@
+mpst_imdb_movies.csv
+local_artifacts/
+.env
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
